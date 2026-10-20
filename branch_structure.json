@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/issue-2015-cover-the-authorisation-path-of-simulate-payout",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2015-cover-the-authorisation-path-of-simulate-payout": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/issue-2015-cover-the-authorisation-path-of-simulate-payout",
+    "origin"
+  ]
+}
